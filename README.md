@@ -33,16 +33,8 @@ J2 – Conector de saída 12 V
 
 Software Utilizado
 
-Proteus 8 (ISIS e ARES)
-
-Arquivos do Projeto
+Proteus 8 (ISIS e ARES) e o Arquivos do Projeto.
 
 O repositório contém:
 
-Esquemático do circuito
-
-Layout da PCB
-
-Visualização 3D da placa
-
-Arquivos do projeto Proteus
+Esquemático do circuito, Layout da PCB, Visualização 3D da placa e Arquivos do projeto Proteus.
