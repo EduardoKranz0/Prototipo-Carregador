@@ -1,6 +1,7 @@
 # Prototipo-Carregador
 
 Fonte Regulada 12V - Projeto Proteus
+
 Descrição
 
 Este projeto consiste no desenvolvimento de uma fonte de alimentação regulada de 12 V utilizando o software Proteus. O objetivo do circuito é converter uma tensão alternada (AC) proveniente de um transformador em uma tensão contínua (DC) estável de 12 V, que pode ser utilizada para alimentar diferentes circuitos eletrônicos.
